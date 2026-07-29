@@ -14,7 +14,7 @@ export const MOCK_PRODUCT_CATEGORIES: IProductCategory[] = [
     name: 'Engine Parts',
     description: 'EGR valves, pistons, gaskets, timing belts, cylinder heads, camshafts, oil pumps, water pumps and more. Full range of engine components for Japanese, European & American vehicles.',
     icon: '⚙️',
-    imageUrl: '/images/product-engine.svg',
+    imageUrl: '/images/product-engine.jpg',
     altText: 'auto engine parts pistons valves gaskets',
   },
   {
@@ -22,7 +22,7 @@ export const MOCK_PRODUCT_CATEGORIES: IProductCategory[] = [
     name: 'Electrical Parts',
     description: 'Oxygen sensors, ignition coils, spark plugs, alternators, starters, crankshaft sensors, camshaft sensors, window regulators and more. Complete auto electrical parts catalog.',
     icon: '⚡',
-    imageUrl: '/images/product-electrical.svg',
+    imageUrl: '/images/product-electrical.jpg',
     altText: 'auto electrical parts oxygen sensor ignition coil',
   },
   {
@@ -30,7 +30,7 @@ export const MOCK_PRODUCT_CATEGORIES: IProductCategory[] = [
     name: 'Brake System',
     description: 'Brake pads, brake discs, calipers, brake drums, master cylinders, wheel cylinders, ABS sensors, brake hoses and more. OE-grade quality, stable braking performance.',
     icon: '🛞',
-    imageUrl: '/images/product-brake.svg',
+    imageUrl: '/images/product-brake.jpg',
     altText: 'brake system parts brake pads discs calipers',
   },
   {
@@ -38,7 +38,7 @@ export const MOCK_PRODUCT_CATEGORIES: IProductCategory[] = [
     name: 'Suspension',
     description: 'Shock absorbers, struts, control arms, ball joints, tie rod ends, stabilizer links, bushings, coil springs and more. Durable suspension components for smooth ride.',
     icon: '🔩',
-    imageUrl: '/images/product-suspension.svg',
+    imageUrl: '/images/product-suspension.jpg',
     altText: 'suspension parts shock absorbers control arms',
   },
   {
@@ -46,7 +46,7 @@ export const MOCK_PRODUCT_CATEGORIES: IProductCategory[] = [
     name: 'Steering System',
     description: 'Power steering pumps, steering racks, tie rods, rack ends, pitman arms, idler arms, steering columns and more. Precision engineered for accurate steering.',
     icon: '🔧',
-    imageUrl: '/images/product-steering.svg',
+    imageUrl: '/images/product-steering.jpg',
     altText: 'steering system parts steering rack tie rod',
   },
   {
@@ -54,7 +54,7 @@ export const MOCK_PRODUCT_CATEGORIES: IProductCategory[] = [
     name: 'Cooling System',
     description: 'Radiators, water pumps, thermostats, cooling fans, fan clutches, radiator hoses, heater cores, expansion tanks and more. Efficient heat dissipation.',
     icon: '❄️',
-    imageUrl: '/images/product-cooling.svg',
+    imageUrl: '/images/product-cooling.jpg',
     altText: 'cooling system parts radiator water pump',
   },
   {
@@ -62,7 +62,7 @@ export const MOCK_PRODUCT_CATEGORIES: IProductCategory[] = [
     name: 'Diesel Fuel System',
     description: 'Diesel injection pumps, fuel injectors, injector nozzles, common rail parts, fuel filters, diesel sensors and more. Specialized in diesel engine fuel system components.',
     icon: '⛽',
-    imageUrl: '/images/product-diesel.svg',
+    imageUrl: '/images/product-diesel.jpg',
     altText: 'diesel fuel system injection pump injector nozzle',
   },
 ]

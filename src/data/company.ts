@@ -43,6 +43,6 @@ export const MOCK_COMPANY: ICompany = {
   productCategories: 8,
   happyClients: 2000,
   logoUrl: '',
-  heroImageUrl: '/images/hero-main.svg',
-  aboutImageUrl: '/images/about-factory.svg',
+  heroImageUrl: '/images/hero-main.jpg',
+  aboutImageUrl: '/images/about-factory.jpg',
 }

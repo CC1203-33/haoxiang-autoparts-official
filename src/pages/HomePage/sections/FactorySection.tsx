@@ -5,7 +5,7 @@ import { UniversalLink } from '@/lib/toolkit-mock';
 
 const FACTORY_IMAGES = [
   {
-    url: '/images/factory-production.svg',
+    url: '/images/factory-production.jpg',
     title: 'Production Line',
     desc: 'Advanced CNC machining & automated assembly',
     alt: 'CNC machining auto parts factory',
@@ -13,7 +13,7 @@ const FACTORY_IMAGES = [
     span: 'lg:col-span-2 lg:row-span-2',
   },
   {
-    url: '/images/factory-qc.svg',
+    url: '/images/factory-qc.jpg',
     title: 'Quality Control',
     desc: '100% inspection before shipment',
     alt: 'quality control inspection auto parts',
@@ -21,7 +21,7 @@ const FACTORY_IMAGES = [
     span: '',
   },
   {
-    url: '/images/factory-warehouse.svg',
+    url: '/images/factory-warehouse.jpg',
     title: 'Warehouse',
     desc: 'Organized inventory & fast order picking',
     alt: 'auto parts warehouse',
@@ -29,7 +29,7 @@ const FACTORY_IMAGES = [
     span: '',
   },
   {
-    url: '/images/factory-production.svg',
+    url: '/images/factory-production.jpg',
     title: 'Packaging',
     desc: 'Professional export packaging standards',
     alt: 'auto parts packaging shipping',
@@ -37,7 +37,7 @@ const FACTORY_IMAGES = [
     span: '',
   },
   {
-    url: '/images/factory-production.svg',
+    url: '/images/factory-production.jpg',
     title: 'Precision Machining',
     desc: 'High-precision CNC manufacturing',
     alt: 'precision auto parts manufacturing',

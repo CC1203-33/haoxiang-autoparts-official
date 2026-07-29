@@ -14,9 +14,9 @@ import { UniversalLink } from '@/lib/toolkit-mock';
 import { Image } from '@/components/ui/image';
 
 const EGR_IMAGE =
-  '/images/product-egr.svg';
+  '/images/product-egr.jpg';
 const DIESEL_IMAGE =
-  '/images/product-diesel.svg';
+  '/images/product-diesel.jpg';
 
 const PRODUCTS = [
   {
